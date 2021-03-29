@@ -8,4 +8,6 @@ The solution to task 1 is in the notebook Q1.ipynb and the created weights will 
 
 The solution to task 3 are the script q3_train.py, which will train the models and store the trained model (multiple if the line to save weights per epoch will be uncommented) in a folder called models/.
 The other Solution for task 3 is the script q3_eval.py, that loads the best model called "best.pt" that lies inside the folder models/ and computes the metrics on the validation set.
+Since the model was too big to upload to Github (125MB) the fully trained model for Q3 is provided in the Teams assignments upload of the project of Tom Fischer (2563286).
+To use the model, please place it in the models/ folder, which we provided in this Github repo, since this is where the load_model() function in the Q3_eval script will search for the best models.
 
