@@ -3,7 +3,9 @@ Code for the Computer Vision project in Neural Networks.
 
 The solution to task 1 is in the notebook Q1.ipynb and the created weights will be saved in a folder models1/ that should lie in the same directory in which Q1.ipynb will be executed.
 
-
+The solution to task 2 are the scripts "Q2_NN_Project" and "Q2_Evaluation_scipt_NN_Project" , for training/visualization and the evaluation part respectively.
+There is a little ambiguity, both of our saved models are called "best.pt". For task2 we have uploaded the model on the google drive and made the repo public.
+The link is available for the repo.
 
 
 The solution to task 3 are the script q3_train.py, which will train the models and store the trained model (multiple if the line to save weights per epoch will be uncommented) in a folder called models/.
